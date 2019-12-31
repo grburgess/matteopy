@@ -16,7 +16,8 @@ AUTHOR = "J. Michael Burgess"
 REQUIRES_PYTHON = ">=3.5.0"
 VERSION = None
 
-REQUIRED = [
+REQUIRED = [numpy,
+            pydub
 
 ]
 
